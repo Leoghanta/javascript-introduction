@@ -1,4 +1,4 @@
-TASK 01 - Introduction to JavaScript
+Workshop 001 - Introduction to JavaScript
 
 *******************************************************************************
 
