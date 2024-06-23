@@ -1,0 +1,51 @@
+TASK 01 - Introduction to JavaScript
+
+*******************************************************************************
+
+If you see this file, you have successfully cloned the repository from GitHub.
+This repository will stay in your folders. If you have your own GitHub account, 
+you can commit and push to your own account.
+
+*******************************************************************************
+
+
+___ TASK 1_____________________________________________________________________
+Use F12 in your browser and find the console window. 
+Can you find the Hello World message written by JavaScript?
+
+___ TASK 2_____________________________________________________________________
+Add a new console.log to add your own message.  Run this and find it in the console.
+
+___ TASK 3_____________________________________________________________________
+The log in the console is mainly for sending messages such as debug or error.
+For error messages, we normally use console.error()
+Add this line of code into your JavaScript file.
+
+console.error("This is an error message");
+console.error("This is an error message");
+console.debug("This is a debug message");
+console.info ("This is an information message");
+console.warn ("This is a warning!")
+
+Run the program and note what you witness.  These messages will be good when building
+programs.
+
+
+___ TASK 4_____________________________________________________________________ 
+HTML pages are known as documents. We can write to the document.  Add this code to your
+javascript page.
+
+document.write("Hello from JavaScript");
+document.write("<h3>This is HTML written from JavaScript</h3>");
+
+
+___ TASK 5_____________________________________________________________________
+To grab the attention of your users, you might want to send them an alert.
+add this code to your javascript page.
+
+alert("This is an alert!");
+
+
+___SUMMARY _____________________________________________________________________
+
+In these tasks, you have found various different ways to output using JavaScript.
